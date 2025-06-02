@@ -1,0 +1,1 @@
+The Iceborn are specifically a rare lineage of those who have [[Freljord|Freljordian]] blood running in their veins.

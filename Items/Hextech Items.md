@@ -1,0 +1,2 @@
+
+The Hextech tag will be added to some items. That means they might begin looking like pretty rudimentary fusion of magic and tech, they can be upgraded by a Hextechnician into several different forms.
