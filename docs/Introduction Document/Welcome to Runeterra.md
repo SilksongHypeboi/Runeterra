@@ -19,5 +19,3 @@ However, all these realms are technically connected, simply considered to be inc
 Although I want to cover as much of the land as possible, there are obviously gaps in my knowledge and things I will get wrong, so I highly recommend that any Dungeon Master planning to use this setting visit the articles in the League of Legends wiki themselves to learn more, having my full blessing to change anything I’ve written here in their own version of Runeterra because I either got it wrong or because you disagree with my ruling. Go forth, my champions!
 
 As for the fantasy I’m trying to accomplish, I hope to give the parties that take on the adventures Runeterra has to offer a taste of what it is like to live in this world. I understand that many people will be interested in roleplaying as their favorite Champions, but my version of the setting will see the champions as individuals holding the highest possible amount of power, being heroes or legends _(haha)_ talked about throughout the lands. As such, unless you are playing at a pretty high level, I would advise having the Champions as NPCs the players can encounter rather than Playable Characters.
-
-hello
