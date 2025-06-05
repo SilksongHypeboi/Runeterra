@@ -4,5 +4,8 @@ theme:
   name: material
 
 plugins:
-  - search
-  - ezlinks
+  - pub-obsidian:
+    obsidian_dir: .obsidian
+    links:
+      wikilinks_enabled: true
+      img_lazy: true
