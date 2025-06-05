@@ -2,3 +2,7 @@ site_name: Runeterra Setting TTRPG
 site_url: https://SilksongHypeboi.github.io/runeterra
 theme:
   name: material
+
+plugins:
+  - search
+  - ezlinks
