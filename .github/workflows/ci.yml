@@ -24,5 +24,5 @@ jobs:
           path: .cache 
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material mkdocs-publisher
+      - run: pip install mkdocs-material mkdocs-ezlinks-plugin
       - run: mkdocs gh-deploy --force
