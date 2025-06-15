@@ -26,13 +26,17 @@ _**Fey Ancestry.**_ Yordles have advantage on saving throws against being 
 
 Choose one of the following:
 
-**Natural Illusionist.** You know the minor illusion cantrip. Intelligence is your spellcasting ability for it.
+---
 
-**Skill Versatility.** You gain proficiency in two skills of your choice.
+1. **Natural Illusionist.** You know the minor illusion cantrip. Intelligence is your spellcasting ability for it.
 
-**Weapon Mastery.** Choose any one simple or martial weapon. Gain proficiency with it.
+2. **Skill Versatility.** You gain proficiency in two skills of your choice.
 
-**Positive Outlook.** You have advantage on saving throws to avoid or end the frightened condition on yourself.
+3. **Weapon Mastery.** Choose any one simple or martial weapon. Gain proficiency with it.
+
+4. **Positive Outlook.** You have advantage on saving throws to avoid or end the frightened condition on yourself.
+
+---
 
 
 **Languages.** You can speak, read, and write Common and Yordle.
