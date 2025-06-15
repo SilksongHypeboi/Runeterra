@@ -9,6 +9,6 @@ Here is a shortened list of changes applied to the basic rules of DnD when playi
 
 - Most spellcasters in Runeterra are born with the potential for magic abilities, making it incredibly rare for one to attain magic without being born with it. This means that when playing classes that normally would have you discovering magic later in life, keep in mind that it is more likely your character was born with that innate talent and only developed it later in life. However, this doesn’t mean you’re locked out of classes that give you access to magic through other means, like [[Warlocks|Warlock]] deals or a [[Cleric Deities|Cleric]]’s worship.
 
-- [[Vastaya]] is the in-world term for most Races with animalistic features. The have a completely different history than the one that will be stated in the DnD source you use, but you can use their statistics and abilities as normal.
+- [[Vastaya]] is the in-world term for most Races with animalistic features. They have a completely different history than the one that will be stated in the DnD source you use, but you can use their statistics and abilities as normal.
 
 - ==Certain changes will be done for the sake of gameplay and simplifying the connection between DnD and Runeterra, meaning that some aspects of the lore might be sacrificed.==

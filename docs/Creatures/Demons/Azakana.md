@@ -3,4 +3,4 @@ Just like other lesser demons, they are not very powerful and the negative emoti
 
 ![[AzakanaMasks.png]]
 
-Although their physical forms can be weakened to the point that they become practically harmless, Azakana cannot be destroyed or banished without the use of a Spirit Weapon or [[Petricite]].
+Although their physical forms can be weakened to the point that they become practically harmless, Azakana cannot be destroyed or banished without the use of a Spirit magic or [[Petricite]].

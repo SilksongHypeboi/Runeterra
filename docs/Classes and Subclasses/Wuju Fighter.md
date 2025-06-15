@@ -10,7 +10,7 @@ _Meditation_: You become able to use Second Wind twice between Short or Long Res
 
 _Soul Severing Slashes:_ As an action, you can channel the power of Wuju into your weapon, granting it the ability to slice the souls of your enemies. For the next minute, your weapon attacks deal an extra 1d6 psychic damage. To keep the channel of energy into your weapon going, you must keep Concentration on this ability as you would with a spell. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
 
-**Wuju Mask.** When choosing this subclass at third level, you are gifted or create your on Wuju Mask, with 7 eyes. While wearing this mask, you have Blindsight of 10ft and can see into the Spirit Realm to a range of 30ft.
+**Wuju Mask.** When choosing this subclass at third level, you are gifted or create your own Wuju Mask, with 7 eyes. While wearing this mask, you have Blindsight of 10ft and can see into the Spirit Realm to a range of 30ft.
 
 **7th level-** **Alpha Strike.** Your training in connecting with the Spirit Realm has paid off. As a bonus action, you can enter the Spirit Realm. Once you do this you disappear from the Material Plane until the end of your turn and thus cannot trigger attacks of opportunity from creatures not in the Spirit Realm. While in the spirit realm, you can still use the attack action against creatures in the Material Plane, counting as an unseen attacker to any that can’t see into the Spirit Realm, and whenever you do and have access to multiple attacks from its use, you may move between hits. You may use this feature a number of times equal to your Wisdom Modifier, and regain all expended uses when you finish a long rest.
 

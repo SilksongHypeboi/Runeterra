@@ -6,14 +6,35 @@ Why would a Yordle become an adventurer? Simply put, Yordles love adventure, and
 
 Ability Scores: Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
 
-Creature Type: Fey
+**Creature Type:** Fey
 
-Size: Small
+**Size:** Small
 
-Speed: 30 feet
+**Speed:** 30 feet
 
-Alignment: Any
+**Alignment:** Any
 
 **_Fey._** Your creature type is fey, rather than humanoid.
 
-2’ to 2’5’’
+
+**Glamour.** You have a magical aura about yourself, that changes the perception of reality of all those who interact with you. To them, your age and looks are perfectly normal, and they accept your presence as a normal part of their daily lives.
+
+
+**Darkvision**. Thanks to your magical nature, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+_**Fey Ancestry.**_ Yordles have advantage on saving throws against being charmed, and magic can't put yordles to sleep.
+
+Choose one of the following:
+
+**Natural Illusionist.** You know the minor illusion cantrip. Intelligence is your spellcasting ability for it.
+
+**Skill Versatility.** You gain proficiency in two skills of your choice.
+
+**Weapon Mastery.** Choose any one simple or martial weapon. Gain proficiency with it.
+
+**Positive Outlook.** You have advantage on saving throws to avoid or end the frightened condition on yourself.
+
+
+**Languages.** You can speak, read, and write Common and Yordle.
+
+**Height.** Yordles usually measure somewhere between 2’ to 2’5’’.
