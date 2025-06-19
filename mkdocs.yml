@@ -16,14 +16,16 @@ theme:
     - navigation.footer
   palette:
     # Palette toggle for light mode
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       accent: light blue
       primary: red
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
     # Palette toggle for dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       accent: light blue
       primary: red
       toggle:
