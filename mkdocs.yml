@@ -2,7 +2,37 @@ site_name: Runeterra Setting TTRPG
 site_url: https://SilksongHypeboi.github.io/runeterra
 theme:
   name: material
-
+  font:
+    text: Lato
+  icon:
+    logo: material/map
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      accent: light blue
+      primary: red
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      accent: light blue
+      primary: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+markdown_extensions: 
+  - nl2br # newline-to-break 
 plugins:
   - search
-  - ezlinks
+  - roamlinks
+  - literate-nav:
+      nav_file: navigation.md
